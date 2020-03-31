@@ -59,6 +59,9 @@
 
 - git show commitID
     > <p dir="rtl" align="right">نمایش جزئیات commit با شناسه تعیین شده</p>
+    
+- git push --tags
+    > <p dir="rtl" align="right">push all tags into github</p>
 
 - git tag
     > <p dir="rtl" align="right">نمایش تگ ها</p>
