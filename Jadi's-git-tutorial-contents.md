@@ -1,4 +1,4 @@
-# __Jadi's GIT tutorial contents__
+# __Berkan's GIT tutorial contents__
 # List of git commands
 - git init
     > <p dir="rtl" align="right">شروع کار با git</p>
