@@ -59,15 +59,15 @@
 
 - git show commitID
     > <p dir="rtl" align="right">نمایش جزئیات commit با شناسه تعیین شده</p>
-    
-- git push --tags
-    > <p dir="rtl" align="right">push all tags into github</p>
 
 - git tag
     > <p dir="rtl" align="right">نمایش تگ ها</p>
 
 - git tag -a tagName -m "description
     > <p dir="rtl" align="right">افزودن تگ با نام و توضیحات تعیین شده</p>
+            
+- git push --tags
+    > <p dir="rtl" align="right">push all tags into github</p>
 
 - git show tagName
     > <p dir="rtl" align="right">نمایش جزئیات تگ</p>
