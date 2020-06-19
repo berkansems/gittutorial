@@ -80,4 +80,8 @@
     
 - git config 
     > <p dir="rtl" align="right">برای تنظیمات ابزار به کار می رود. مانند مشخصات نویسده و همچنین تنظیمات مربوط به پراکسی برای کلاینت گیت</p>
+    
+    - git fetch origin
+    > <p dir="rtl" align="right">tüm  branchleri originden alım getiriyor</p>
+
 
