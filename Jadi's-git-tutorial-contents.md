@@ -2,6 +2,9 @@
 # List of git commands
 - git init
     > <p dir="rtl" align="right">شروع کار با git</p>
+    
+- git -ltrha
+    > <p dir="rtl" align="right">check the git</p>
 
 - git add fileName
     > <p dir="rtl" align="right">افزودن فایل به git</p>
